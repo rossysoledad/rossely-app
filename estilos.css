@@ -1,0 +1,55 @@
+body {
+	background: pink;
+}
+.contenedor{
+	
+	width: 960px;
+	margin: 0 auto;
+}
+.menu-lista{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.menu-item{
+	display: inline-block;
+
+}
+.menu-link{
+
+padding: 0 10px;
+border-radius: 5px;
+text-decoration: none;
+}
+nav{
+	text-align: center;
+}
+.menu-link{
+	font-size: 18px;
+	background: yellow;
+	color: black;
+	text-decoration: none;
+}
+.menu-link:hover{
+text-decoration: underline;
+box-shadow: 5px 5px 15px orange;
+transform: 0.5s;
+}
+.morado{
+	color: purple;
+}
+.azul{
+	color: blue;
+	font-size: 25px;
+	text-align: center;
+}
+.slider{
+	margin-top: 50spx;
+}
+.rosely{
+	text-align: center;
+}
+.rosely{
+    border: 3px solid orange;
+	border-radius: 120px;
+}
